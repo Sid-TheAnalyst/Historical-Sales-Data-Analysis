@@ -1,5 +1,3 @@
-This is a project I replicated from a "Power BI Intermediate Course" from udemy.
-
 ## Problem Statment
 The imaginary company sales their products in diffrent regions of contry through online as well as offline channels. The sales manager of this company need a insights from the historical sales data. As a data analyst, I have follow the below steps to provide the sales analysis report to the manager.
 
